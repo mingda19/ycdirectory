@@ -1,0 +1,7 @@
+{
+    "extends": "next",
+    "plugins": [],
+    "rules": {}
+    // "extends": [next/core-web-vitals", "next/typescript"]
+  }
+  
